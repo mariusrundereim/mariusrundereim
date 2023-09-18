@@ -11,6 +11,7 @@ As a front-end developer, I've transitioned from focusing solely on the aestehet
 * Figma and Adobe XD
 * Interaction Design (UX, UI)
 * Wordpress and REST API
+* Bootstrap (CSS Frameworks)
 
 ## Projects
 
