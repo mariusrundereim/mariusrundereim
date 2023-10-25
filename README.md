@@ -1,17 +1,28 @@
 ### Hi there 👋 My name is Marius Rundereim
 
-I currently study front-end developer on Noroff at Campus Kristiansand. 
+Study last year front-end development on Noroff at Campus Kristiansand. 
 
 With a solid decade of experience as a graphic designer, I decided a career shift into the world of front-end development.
 As a front-end developer, I've transitioned from focusing solely on the aestehetics to putting the user experience in center.
 
-
 ## Knowlegde
-* HTML, CSS and JavaScript
-* Figma and Adobe XD
-* Interaction Design (UX, UI)
-* Wordpress and REST API
-* Bootstrap (CSS Frameworks)
+* HTML5
+* CSS
+* JavaScript
+* Wordpress
+* API
+* Bootstrap CSS
+
+## Software
+* Visual Studio Code
+* Figma
+* Adobe XD
+* Postman
+
+## Currently learning
+* Tailwind CSS
+* Svelte
+
 
 ## Projects
 
