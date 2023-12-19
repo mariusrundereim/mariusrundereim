@@ -9,14 +9,16 @@ As a front-end developer, I've transitioned from focusing solely on the aestehet
 * HTML5
 * CSS
 * JavaScript
+* Tailwind CSS
+* Bootstrap CSS
+* Jest
+* Cypress
 * Wordpress
 * API
-* Bootstrap CSS
 
 ## Software
 * Visual Studio Code
 * Figma
-* Adobe XD
 * Postman
 
 ## Currently learning
@@ -26,6 +28,7 @@ As a front-end developer, I've transitioned from focusing solely on the aestehet
 
 ## Projects
 
+* [Bidify](https://mariusrundereim.github.io/marius-semester-project-2/)
 * [StyleVault](https://github.com/mariusrundereim/rundereim_marius_exam1)
 * [Community Science Museum](https://github.com/mariusrundereim/semester-museum-1)
 * [Rainy Days](https://github.com/mariusrundereim/rainydays-cms)
