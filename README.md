@@ -28,7 +28,7 @@ As a front-end developer, I've transitioned from focusing solely on the aestehet
 
 ## Projects
 
-* [Bidify](https://mariusrundereim.github.io/marius-semester-project-2/)
+* [Bidify](https://github.com/mariusrundereim/marius-semester-project-2)
 * [StyleVault](https://github.com/mariusrundereim/rundereim_marius_exam1)
 * [Community Science Museum](https://github.com/mariusrundereim/semester-museum-1)
 * [Rainy Days](https://github.com/mariusrundereim/rainydays-cms)
