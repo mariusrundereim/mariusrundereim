@@ -24,6 +24,7 @@ As a front-end developer, I've transitioned from focusing solely on the aestehet
 ## Currently learning
 * Tailwind CSS
 * Svelte
+* Vue
 
 
 ## Projects
