@@ -21,16 +21,6 @@ Study last year Frontend development Noroff at Campus Kristiansand.
 * Figma
 * Postman
 
-
-
-
-## Projects
-
-* [Bidify](https://github.com/mariusrundereim/marius-semester-project-2)
-* [StyleVault](https://github.com/mariusrundereim/rundereim_marius_exam1)
-* [Community Science Museum](https://github.com/mariusrundereim/semester-museum-1)
-* [Rainy Days](https://github.com/mariusrundereim/rainydays-cms)
-
 ## 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/mariusrundereim/)
 * marius.rundereim@gmail.com
