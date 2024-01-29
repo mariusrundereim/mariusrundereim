@@ -15,7 +15,7 @@ Study last year Frontend development Noroff at Campus Kristiansand.
 * Jest
 * Cypress
 
-## Software
+## Tools
 * Git
 * Visual Studio Code
 * Figma
