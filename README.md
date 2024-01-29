@@ -1,30 +1,30 @@
 ### Hi there 👋 My name is Marius Rundereim
 
-Study last year front-end development on Noroff at Campus Kristiansand. 
+Study last year Frontend development Noroff at Campus Kristiansand. 
 
 With a solid decade of experience as a graphic designer, I decided a career shift into the world of front-end development.
 As a front-end developer, I've transitioned from focusing solely on the aestehetics to putting the user experience in center.
 
+## ⚡ Currently learning
+* Svelte
+* Vue
+* React
+
 ## Knowlegde
-* HTML5
-* CSS
-* JavaScript
-* Tailwind CSS
-* Bootstrap CSS
+* HTML5, CSS, JavaScript, TailwindCSS
+* REST API
+
+## Testing
 * Jest
 * Cypress
-* Wordpress
-* API
 
 ## Software
+* Git
 * Visual Studio Code
 * Figma
 * Postman
 
-## Currently learning
-* Tailwind CSS
-* Svelte
-* Vue
+
 
 
 ## Projects
