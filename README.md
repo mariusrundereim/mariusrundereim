@@ -21,10 +21,6 @@ Study last year Frontend development Noroff at Campus Kristiansand.
 * Figma
 * Postman
 
-## 📫 How to reach me:
-* [LinkedIn](https://www.linkedin.com/in/mariusrundereim/)
-* marius.rundereim@gmail.com
-
 <!--
 **mariusrundereim/mariusrundereim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
