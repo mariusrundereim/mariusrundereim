@@ -2,9 +2,6 @@
 
 Study last year Frontend development Noroff at Campus Kristiansand. 
 
-With a solid decade of experience as a graphic designer, I decided a career shift into the world of front-end development.
-As a front-end developer, I've transitioned from focusing solely on the aestehetics to putting the user experience in center.
-
 ## ⚡ Currently learning
 * Svelte
 * Vue
