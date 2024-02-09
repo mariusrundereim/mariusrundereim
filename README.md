@@ -1,11 +1,11 @@
-### Hi there 👋 My name is Marius Rundereim
+### Hi there 👋 
 
 Study last year Frontend development Noroff at Campus Kristiansand. 
 
 ## ⚡ Currently learning
 * Svelte
-* Vue
 * React
+* AWS EC2
 
 ## Knowlegde
 * HTML5, CSS, JavaScript, TailwindCSS
