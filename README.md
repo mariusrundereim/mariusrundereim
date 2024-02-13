@@ -2,10 +2,10 @@
 
 Study last year Frontend development Noroff at Campus Kristiansand. 
 
-# Skills
+# Tech
 
 
-## Frontend Technologies
+## Frontend
 
 | Languages | Frameworks | Testing | API  |
 |-----------|------------|---------|------|
@@ -14,7 +14,7 @@ Study last year Frontend development Noroff at Campus Kristiansand.
 |JavaScript | TailwindCSS | 
 ||Bootstrap | 
 
-## Backend Technologies
+## Backend
 
 | Database  | Frameworks | Testing  | API     |
 |-----------|------------|----------|---------|
