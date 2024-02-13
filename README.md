@@ -16,11 +16,11 @@ Study last year Frontend development Noroff at Campus Kristiansand.
 
 ## Backend
 
-| Database  | Frameworks | Testing  | API     |
-|-----------|------------|----------|---------|
-| MySQL     | Express    | Jest     | CRUD    |
-| NoSQL     | Node.js    | Cypress  | GraphQL |
-| MongoDB   |            |          |         |
+| Database  | Frameworks | 
+|-----------|------------|
+| MySQL     | Express    |
+| NoSQL     | Node.js    | 
+| MongoDB   |            |         
 
 
 ## Tools
