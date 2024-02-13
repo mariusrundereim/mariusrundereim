@@ -2,18 +2,26 @@
 
 Study last year Frontend development Noroff at Campus Kristiansand. 
 
-## ⚡ Currently learning
-* Svelte
-* React
-* AWS EC2
+# Skills
 
-## Knowlegde
-* HTML5, CSS, JavaScript, TailwindCSS
-* REST API
 
-## Testing
-* Jest
-* Cypress
+## Frontend Technologies
+
+| Languages | Frameworks | Testing | API  |
+|-----------|------------|---------|------|
+| HTML      | React      | Jest    | CRUD |
+|CSS        | Svelte | Cypress | GraphQL |
+|JavaScript | TailwindCSS | 
+||Bootstrap | 
+
+## Backend Technologies
+
+| Database  | Frameworks | Testing  | API     |
+|-----------|------------|----------|---------|
+| MySQL     | Express    | Jest     | CRUD    |
+| NoSQL     | Node.js    | Cypress  | GraphQL |
+| MongoDB   |            |          |         |
+
 
 ## Tools
 * Git
