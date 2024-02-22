@@ -10,17 +10,17 @@ Study last year Frontend development Noroff at Campus Kristiansand.
 | Languages | Frameworks | Testing | API  |
 |-----------|------------|---------|------|
 | HTML      | React      | Jest    | CRUD |
-|CSS        | Svelte | Cypress | GraphQL |
+|CSS        | Svelte     | Cypress | GraphQL |
 |JavaScript | TailwindCSS | 
-||Bootstrap | 
+|            |Bootstrap | 
 
 ## Backend
 
-| Database  | Frameworks | 
-|-----------|------------|
-| MySQL     | Express    |
-| NoSQL     | Node.js    | 
-| MongoDB   |            |         
+| Database  | Frameworks | Cloud |
+|-----------|------------|-------|
+| MySQL     | Express    | AWS EC2 |
+| NoSQL     | Node.js    |         |
+| MongoDB   |            |         |
 
 
 ## Tools
