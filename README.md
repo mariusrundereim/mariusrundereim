@@ -1,33 +1,32 @@
-### Hi there 👋 
+### Hi there 👋
 
-Study last year Frontend development Noroff at Campus Kristiansand. 
+Study last year Frontend development Noroff at Campus Kristiansand. More content later..
 
-# Tech
-
+## Tech
 
 ## Frontend
 
-| Languages | Frameworks | Testing | API  |
-|-----------|------------|---------|------|
-| HTML      | React      | Jest    | CRUD |
-|CSS        | Svelte     | Cypress | GraphQL |
-|JavaScript | TailwindCSS | 
-|            |Bootstrap | 
+| Languages  | Frameworks  | Testing | API     |
+| ---------- | ----------- | ------- | ------- |
+| HTML       | React       | Jest    | CRUD    |
+| CSS        | Svelte      | Cypress | GraphQL |
+| JavaScript | TailwindCSS |
+|            | Bootstrap   |
 
 ## Backend
 
-| Database  | Frameworks | Cloud |
-|-----------|------------|-------|
-| MySQL     | Express    | AWS EC2 |
-| NoSQL     | Node.js    |         |
-| MongoDB   |            |         |
-
+| Database | Frameworks | Cloud   |
+| -------- | ---------- | ------- |
+| MySQL    | Express    | AWS EC2 |
+| NoSQL    | Node.js    |         |
+| MongoDB  |            |         |
 
 ## Tools
-* Git
-* Visual Studio Code
-* Figma
-* Postman
+
+- Git
+- Visual Studio Code
+- Figma
+- Postman
 
 <!--
 **mariusrundereim/mariusrundereim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
