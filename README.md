@@ -1,32 +1,21 @@
-### Hi there 👋
+**`Front-end Developer (Developer/Designer)`**
 
-Study last year Frontend development Noroff at Campus Kristiansand. More content later..
+### Currently Learning
+[![My Skills](https://skillicons.dev/icons?i=react,redux)](https://skillicons.dev)
 
-## Tech
+### Web Development
+[![My Skills](https://skillicons.dev/icons?i=js,css,svelte,tailwind)](https://skillicons.dev)
 
-## Frontend
+### Tools
+[![Softwares](https://skillicons.dev/icons?i=vscode,figma,postman,illustrator,)](https://skillicons.dev)
 
-| Languages  | Frameworks  | Testing | API     |
-| ---------- | ----------- | ------- | ------- |
-| HTML       | React       | Jest    | CRUD    |
-| CSS        | Svelte      | Cypress | GraphQL |
-| JavaScript | TailwindCSS |
-|            | Bootstrap   |
 
-## Backend
 
-| Database | Frameworks | Cloud   |
-| -------- | ---------- | ------- |
-| MySQL    | Express    | AWS EC2 |
-| NoSQL    | Node.js    |         |
-| MongoDB  |            |         |
+![](https://komarev.com/ghpvc/?username=mariusrundereim&color=green)
 
-## Tools
 
-- Git
-- Visual Studio Code
-- Figma
-- Postman
+![Marius GitHub stats](https://github-readme-stats.vercel.app/api?username=mariusrundereim&show_icons=true&theme=gruvbox)
+
 
 <!--
 **mariusrundereim/mariusrundereim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
