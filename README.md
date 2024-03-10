@@ -1,7 +1,7 @@
 **`Front-end Developer (Developer/Designer)`**
 
 ### Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=react,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,mui)](https://skillicons.dev)
 
 ### Web Development
 [![My Skills](https://skillicons.dev/icons?i=js,css,svelte,tailwind)](https://skillicons.dev)
