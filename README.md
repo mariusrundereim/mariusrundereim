@@ -1,13 +1,13 @@
 **`Front-end Developer (Developer/Designer)`**
 
 ### Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=react,redux,mui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,typescript)](https://skillicons.dev)
 
 ### Web Development
-[![My Skills](https://skillicons.dev/icons?i=js,css,svelte,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,css,react,tailwind)](https://skillicons.dev)
 
 ### Tools
-[![Softwares](https://skillicons.dev/icons?i=vscode,figma,postman,illustrator,)](https://skillicons.dev)
+[![Softwares](https://skillicons.dev/icons?i=vscode,figma,postman,illustrator,mui)](https://skillicons.dev)
 
 
 
