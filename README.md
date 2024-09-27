@@ -1,21 +1,42 @@
-**`Front-end Developer (Developer/Designer)`**
+# Marius Rundereim
+
+**`Fullstack Developer in the Making (Developer/Designer)`**
+
+👋 Hi there! I'm a front-end developer with a passion for design, currently expanding my skills into backend development to become a well-rounded fullstack developer.
+
+## 🚀 Technologies & Skills
 
 ### Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=react,redux,typescript)](https://skillicons.dev)
+[![Currently Learning](https://skillicons.dev/icons?i=nextjs,nodejs,javascript)](https://skillicons.dev)
 
-### Web Development
-[![My Skills](https://skillicons.dev/icons?i=ts,js,css,react,tailwind)](https://skillicons.dev)
+### Frontend Technologies
+[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind)](https://skillicons.dev)
 
-### Tools
-[![Softwares](https://skillicons.dev/icons?i=vscode,figma,postman,illustrator,mui)](https://skillicons.dev)
+### Design Applications & Tools
+[![My Design & Tool Skills](https://skillicons.dev/icons?i=figma,illustrator,vscode,postman,mui)](https://skillicons.dev)
 
+## 🎯 Focus & Goals
 
+As an aspiring Fullstack Developer or related title, I'm focusing on:
 
-![](https://komarev.com/ghpvc/?username=mariusrundereim&color=green)
+- Knowledge in Next.js ⚡
+- Mastering React.js and its ecosystem (Redux, React Router)
+- Deepening my understanding of TypeScript
+- Learning backend technologies (Node.js, Express.js, MongoDB)
+- Exploring cloud platforms and deployment strategies
 
+## 📊 GitHub Stats
 
 ![Marius GitHub stats](https://github-readme-stats.vercel.app/api?username=mariusrundereim&show_icons=true&theme=gruvbox)
 
+## 🌐 Connect with Me
+
+- [Portfolio](https://www.runder.no/)
+- [LinkedIn](https://www.linkedin.com/in/mariusrundereim)
+
+---
+
+![](https://komarev.com/ghpvc/?username=mariusrundereim&color=green)
 
 <!--
 **mariusrundereim/mariusrundereim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
