@@ -2,7 +2,7 @@
 
 **`Fullstack Developer in the Making (Developer/Designer)`**
 
-👋 Hi there! I'm a front-end developer with a passion for design, currently expanding my skills into backend development to become a well-rounded fullstack developer.
+👋 Hi there! I'm a graduated Frontend-end developer, and study Backend development to understand the big picture in web applications.
 
 ## 🚀 Technologies & Skills
 
@@ -10,20 +10,15 @@
 [![Currently Learning](https://skillicons.dev/icons?i=nextjs,nodejs,javascript)](https://skillicons.dev)
 
 ### Frontend Technologies
-[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind)](https://skillicons.dev)
+[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap)](https://skillicons.dev)
 
 ### Design Applications & Tools
 [![My Design & Tool Skills](https://skillicons.dev/icons?i=figma,illustrator,vscode,postman,mui)](https://skillicons.dev)
 
-## 🎯 Focus & Goals
-
-As an aspiring Fullstack Developer or related title, I'm focusing on:
+## 🎯 Focus
 
 - Knowledge in Next.js ⚡
-- Mastering React.js and its ecosystem (Redux, React Router)
-- Deepening my understanding of TypeScript
-- Learning backend technologies (Node.js, Express.js, MongoDB)
-- Exploring cloud platforms and deployment strategies
+- Job position as a Frontend developer
 
 ## 📊 GitHub Stats
 
