@@ -9,7 +9,10 @@
 ### Currently Learning
 [![Currently Learning](https://skillicons.dev/icons?i=nextjs,nodejs,javascript)](https://skillicons.dev)
 
-### Frontend Technologies
+### Backend
+[![My Backend Skills](https://skillicons.dev/icons?i=js,bootstrap)](https://skillicons.dev)
+
+### Frontend
 [![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap)](https://skillicons.dev)
 
 ### Design Applications & Tools
