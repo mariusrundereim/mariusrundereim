@@ -2,35 +2,25 @@
 
 **`Fullstack Developer in the Making (Developer/Designer)`**
 
-👋 Hi there! I'm a graduated Frontend-end developer, and study Backend development to understand the big picture in web applications.
+👋 Hi there! I'm a graduated Frontend-end developer.
+
+Currently study Backend development.
 
 ## 🚀 Technologies & Skills
 
 ### Currently Learning
 [![Currently Learning](https://skillicons.dev/icons?i=nextjs,nodejs,javascript)](https://skillicons.dev)
 
-### Backend
-[![My Backend Skills](https://skillicons.dev/icons?i=js,bootstrap)](https://skillicons.dev)
-
-### Frontend
-[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap)](https://skillicons.dev)
+### Technologies
+[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,redux,tailwind,bootstrap)](https://skillicons.dev)
 
 ### Design Applications & Tools
-[![My Design & Tool Skills](https://skillicons.dev/icons?i=figma,illustrator,vscode,postman,mui)](https://skillicons.dev)
+[![My Design & Tool Skills](https://skillicons.dev/icons?i=figma,illustrator,vscode,postman,mui,git)](https://skillicons.dev)
 
-## 🎯 Focus
+- [Radix UI](https://www.radix-ui.com/)
+- [Mantine](https://mantine.dev/)
 
-- Knowledge in Next.js ⚡
-- Job position as a Frontend developer
-
-## 📊 GitHub Stats
-
-![Marius GitHub stats](https://github-readme-stats.vercel.app/api?username=mariusrundereim&show_icons=true&theme=gruvbox)
-
-## 🌐 Connect with Me
-
-- [Portfolio](https://www.runder.no/)
-- [LinkedIn](https://www.linkedin.com/in/mariusrundereim)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariusrundereim&layout=compact)
 
 ---
 
