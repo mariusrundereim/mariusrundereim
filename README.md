@@ -1,21 +1,22 @@
-# Marius Rundereim
 
-**`Fullstack Developer in the Making (Developer/Designer)`**
 
-👋 Hi there! I'm a graduated Frontend-end developer.
+👋 Hi there! 
 
-Currently study Backend development.
+I'm a graduated Front-end developer and currently study Back-end development.
 
 ## 🚀 Technologies & Skills
 
 ### Currently Learning
 [![Currently Learning](https://skillicons.dev/icons?i=nextjs,nodejs,javascript)](https://skillicons.dev)
 
-### Technologies
+### Frontend
 [![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,redux,tailwind,bootstrap)](https://skillicons.dev)
 
+### Backend
+[![Backend](https://skillicons.dev/icons?i=js,nodejs)](https://skillicons.dev)
+
 ### Design Applications & Tools
-[![My Design & Tool Skills](https://skillicons.dev/icons?i=figma,illustrator,vscode,postman,mui,git)](https://skillicons.dev)
+[![My Design & Tool Skills](https://skillicons.dev/icons?i=figma,vscode,postman,git)](https://skillicons.dev)
 
 - [Radix UI](https://www.radix-ui.com/)
 - [Mantine](https://mantine.dev/)
